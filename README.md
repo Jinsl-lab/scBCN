@@ -6,13 +6,13 @@ Before installing scBCN, please install the following packages manually.
 `scBCN` depends on the following Python packages:
 ```text
 anndata 0.10.4
-anndata2ri 
+anndata2ri 1.3.1
 hnswlib 0.8.0
 joblib 1.3.2
 networkx 3.2.1
 numpy 1.26.3
 pandas 2.1.4
-rpy2 
+rpy2 3.5.11
 scanpy 1.9.6
 scipy 1.11.4
 scikit-learn 1.3.2
