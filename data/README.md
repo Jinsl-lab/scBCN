@@ -1,0 +1,1 @@
+This repository contains two Jupyter notebooks that demonstrate how to use the scBCN algorithm for integrating single-cell RNA-seq (scRNA-seq) data. It covers the integration process and outputs the integration performance scores to evaluate the results.
